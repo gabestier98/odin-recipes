@@ -18,3 +18,9 @@
 .class-for-page {
     text-align: center;
 }
+
+.page-2-back {
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+}
